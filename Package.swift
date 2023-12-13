@@ -16,7 +16,7 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "ZipArchive",
+            name: "SSZipArchive",
             path: "SSZipArchive",
             cSettings: [
                 .define("HAVE_INTTYPES_H"),
