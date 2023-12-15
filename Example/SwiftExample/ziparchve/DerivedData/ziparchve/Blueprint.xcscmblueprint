@@ -1,0 +1,28 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "65E71B0513DBFB09F39CEEF3A8B769CB93E66994",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "65E71B0513DBFB09F39CEEF3A8B769CB93E66994" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E11D4632-1B2C-46BB-A74F-A2D0B669351C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "65E71B0513DBFB09F39CEEF3A8B769CB93E66994" : "ZipArchive\/Example\/SwiftExample\/ziparchve\/DerivedData\/ziparchve\/SourcePackages\/checkouts\/ZipArchive\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ziparchve",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/SwiftExample\/ziparchve\/ziparchve.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:yusuketakeuch\/ZipArchive.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65E71B0513DBFB09F39CEEF3A8B769CB93E66994"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/takeuchiyusuke\/dev\/ZipArchive\/Example\/SwiftExample\/ziparchve\/DerivedData\/ziparchve\/SourcePackages\/repositories\/ZipArchive-6d9b128f",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65E71B0513DBFB09F39CEEF3A8B769CB93E66994"
+    }
+  ]
+}

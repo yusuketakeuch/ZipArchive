@@ -1,0 +1,63 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "be33e50d91fa871f5e77efe934e1d18a0a7bd832ff19b07e3d241fb4f1c721bc"
+    }
+  ],
+  "containerPath" : "/Users/takeuchiyusuke/dev/ZipArchive/Example/SwiftExample/ziparchve/ziparchve.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos17.0",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/takeuchiyusuke/dev/ZipArchive/Example/SwiftExample/ziparchve/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/takeuchiyusuke/dev/ZipArchive/Example/SwiftExample/ziparchve/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/takeuchiyusuke/dev/ZipArchive/Example/SwiftExample/ziparchve/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/takeuchiyusuke/dev/ZipArchive/Example/SwiftExample/ziparchve/DerivedData/ziparchve/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/takeuchiyusuke/dev/ZipArchive/Example/SwiftExample/ziparchve/DerivedData/ziparchve/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/takeuchiyusuke/dev/ZipArchive/Example/SwiftExample/ziparchve/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "test",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
