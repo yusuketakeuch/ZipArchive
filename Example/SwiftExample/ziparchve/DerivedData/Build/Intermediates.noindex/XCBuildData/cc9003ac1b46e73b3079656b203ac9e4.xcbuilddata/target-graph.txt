@@ -1,9 +1,0 @@
-Target dependency graph (4 targets)
-Target 'ziparchve' in project 'ziparchve'
-➜ Explicit dependency on target 'ZipArchive' in project 'ZipArchive'
-Target 'ZipArchive' in project 'ZipArchive'
-➜ Explicit dependency on target 'ZipArchive' in project 'ZipArchive'
-➜ Explicit dependency on target 'ZipArchive_ZipArchive' in project 'ZipArchive'
-Target 'ZipArchive' in project 'ZipArchive'
-➜ Explicit dependency on target 'ZipArchive_ZipArchive' in project 'ZipArchive'
-Target 'ZipArchive_ZipArchive' in project 'ZipArchive' (no dependencies)

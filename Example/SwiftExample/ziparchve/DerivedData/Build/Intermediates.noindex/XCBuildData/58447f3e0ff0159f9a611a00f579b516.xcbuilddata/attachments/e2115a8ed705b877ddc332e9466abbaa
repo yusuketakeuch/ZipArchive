@@ -1,4 +1,0 @@
-module ZipArchive {
-umbrella header "/Users/takeuchiyusuke/dev/ZipArchive/Example/SwiftExample/ziparchve/DerivedData/ziparchve/SourcePackages/checkouts/ZipArchive/SSZipArchive/include/ZipArchive.h"
-export *
-}
