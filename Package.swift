@@ -12,7 +12,7 @@ let package = Package(
         .watchOS(.v2),
     ],
     products: [
-        .library(name: "SSZipArchive",type: type: .dynamic ,targets: ["ZipArchive"]),
+        .library(name: "SSZipArchive",type: .dynamic ,targets: ["ZipArchive"]),
     ],
     targets: [
         .target(
